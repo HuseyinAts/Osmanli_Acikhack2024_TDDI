@@ -1,1 +1,1 @@
-Trend Miner #Acikhack2024TDDI
+Trend Miner Takımı #Acikhack2024TDDI
