@@ -1,1 +1,1 @@
-streamlit run app.py
+Trend Miner #Acikhack2024TDDI
